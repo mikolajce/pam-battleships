@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="textAppName">Pamships</string>
+    <string name="textHelloWorld">Witaj Świecie !</string>
+    <string name="textPlay">Graj</string>
+    <string name="infoUnavailable">niedostępny</string>
+    <string name="textName">Przedstaw się!</string>
+    <string name="textBeforeBegin">Zanim zaczniemy, powiedz jak masz na imię.</string>
+    <string name="alertEmptyName">Podaj swoje imię</string>
+    <string name="gamePlayerTurn">Wybierz pole w celu próby ataku na wrogi statek.</string>
+    <string name="textHi">Hejka!</string>
+    <string name="gamePlayerHit">Przeciwnik trafiony!</string>
+    <string name="gamePlayerSink">Statek przeciwnika zatopiony!</string>
+    <string name="gamePlayerMiss">Nie trafiono.</string>
+    <string name="gameEnemyHit">Dostaliśmy!</string>
+    <string name="gameEnemySink">Straciliśmy statek!</string>
+    <string name="gameEnemyMiss">Wróg nie trafił.</string>
+    <string name="gameAimingAt">Uderzenie na pole...</string>
+    <string name="textRow">rząd</string>
+    <string name="textColumn">kolumna</string>
+    <string name="textLoseCongrats">Spocznij, żołnierzu.</string>
+    <string name="textWinCongrats">Gratulacje żołnierzu!</string>
+    <string name="textWin">Wygraliśmy!</string>
+    <string name="textLose">Przegraliśmy.</string>
+    <string name="textPlayAgain">Zagraj ponownie</string>
+    <string name="gameEnemyTurnInfo">Przeciwnik uderza na...</string>
+    <string name="textEnemyPreviewButton">Wróg</string>
+    <string name="textPlayerPreviewButton">Gracz</string>
+    <string name="textToggleBlindMode">Tryb ślepy</string>
+    <string name="textGameSettings">Ustawienia gry</string>
+</resources>

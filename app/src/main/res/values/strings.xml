@@ -1,0 +1,43 @@
+<resources>
+    <string name="textAppName">Pamships</string>
+    <string name="textHelloWorld">Hello World !</string>
+    <string name="textPlay">Play</string>
+    <string name="infoUnavailable">unavailable</string>
+    <string name="textName">Introduce yourself!</string>
+    <string name="textBeforeBegin">Before we begin, tell us what your name is.</string>
+    <string name="alertEmptyName">Please enter your name</string>
+    <string name="textSadFace" translatable="false">:(</string>
+    <string name="gamefieldSinkShip" translatable="false">#</string>
+    <string name="gamefieldDefault" translatable="false">~</string>
+    <string name="gamePlayerTurn">Choose a field to attempt a strike on enemy vessels.</string>
+    <string name="textHi">Hi!</string>
+    <string name="gamefieldMiss" translatable="false">O</string>
+    <string name="gamefieldShip" translatable="false">+</string>
+    <string name="gamePlayerHit">You hit the enemy ship!</string>
+    <string name="gamePlayerSink">You sunk the enemy vessel!</string>
+    <string name="gamePlayerMiss">You missed.</string>
+    <string name="gameEnemyHit">We\'ve been hit!</string>
+    <string name="gameEnemySink">We lost a vessel!</string>
+    <string name="gameEnemyMiss">The enemy missed.</string>
+    <string name="gameAimingAt">Aiming at field...</string>
+    <string name="textRow">row</string>
+    <string name="textColumn">column</string>
+    <string name="textWinCongrats">Congratulations soldier!</string>
+    <string name="textWin">We won!</string>
+    <string name="textLose">We lost.</string>
+    <string name="textLoseCongrats">Rest, soldier.</string>
+    <string name="textPlayAgain">Play again</string>
+    <string name="gameEnemyTurnInfo">Enemy striking at...</string>
+    <string name="gamefieldHitShip" translatable="false">X</string>
+    <string name="textEnemyPreviewButton">Enemy</string>
+    <string name="textPlayerPreviewButton">You</string>
+    <string name="textToggleBlindMode">Blind Mode</string>
+    <string name="textGameSettings">Game Settings</string>
+    <string name="textSpinnerInfo" translatable="false">placeholder</string>
+    <string name="textBlindModeInfo" translatable="false">placeholder</string>
+    <string-array name="shipLayouts">
+        <item>1-1-1-1</item>
+        <item>2-0-0-3</item>
+        <item>1-2-0-1</item>
+    </string-array>
+</resources>
